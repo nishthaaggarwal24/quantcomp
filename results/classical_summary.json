@@ -1,0 +1,27 @@
+{
+  "linear_svm": {
+    "accuracy_mean": 0.8412371134020619,
+    "accuracy_std": 0.03308619904305404,
+    "parameters_mean": 72.0
+  },
+  "logistic": {
+    "accuracy_mean": 0.8701030927835051,
+    "accuracy_std": 0.02587608329486832,
+    "parameters_mean": 72.0
+  },
+  "mlp": {
+    "accuracy_mean": 0.643298969072165,
+    "accuracy_std": 0.1856529010846756,
+    "parameters_mean": 59.0
+  },
+  "rbf_svm": {
+    "accuracy_mean": 0.8577319587628865,
+    "accuracy_std": 0.019830292847083843,
+    "parameters_mean": null
+  },
+  "tfidf_logistic": {
+    "accuracy_mean": 0.9463917525773196,
+    "accuracy_std": 0.02112773353806101,
+    "parameters_mean": 4432.0
+  }
+}

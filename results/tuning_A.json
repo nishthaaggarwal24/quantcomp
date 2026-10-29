@@ -1,0 +1,724 @@
+[
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 1,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.1694915254237288,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.57895946772635,
+        "validation_accuracy": 0.06779661016949153
+      },
+      {
+        "epoch": 2,
+        "loss": 2.5019119740563553,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 3,
+        "loss": 2.4174055629053335,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 4,
+        "loss": 2.321762109988632,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 5,
+        "loss": 2.236638668642272,
+        "validation_accuracy": 0.1694915254237288
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 1,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.2033898305084746,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.0635072294600403,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 2,
+        "loss": 2.049793894773235,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 3,
+        "loss": 2.03967104079768,
+        "validation_accuracy": 0.2033898305084746
+      },
+      {
+        "epoch": 4,
+        "loss": 2.033408484560462,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 5,
+        "loss": 2.0297609656881925,
+        "validation_accuracy": 0.15254237288135594
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 1,
+      "bandwidth": 0.5,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.1016949152542373,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.7975702943968517,
+        "validation_accuracy": 0.05084745762711865
+      },
+      {
+        "epoch": 2,
+        "loss": 2.4592218604826335,
+        "validation_accuracy": 0.05084745762711865
+      },
+      {
+        "epoch": 3,
+        "loss": 2.307776676569885,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 4,
+        "loss": 2.2326311268537116,
+        "validation_accuracy": 0.05084745762711865
+      },
+      {
+        "epoch": 5,
+        "loss": 2.17459642401407,
+        "validation_accuracy": 0.03389830508474576
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 1,
+      "bandwidth": 0.5,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.1694915254237288,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.058944720788528,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 2,
+        "loss": 2.035984366272467,
+        "validation_accuracy": 0.11864406779661017
+      },
+      {
+        "epoch": 3,
+        "loss": 2.0203393857180507,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 4,
+        "loss": 2.010074356029717,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 5,
+        "loss": 2.000968191039916,
+        "validation_accuracy": 0.1694915254237288
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 1,
+      "bandwidth": 1.0,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.3050847457627119,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.6916558771469283,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 2,
+        "loss": 2.271590179848446,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 3,
+        "loss": 1.9956209803775335,
+        "validation_accuracy": 0.23728813559322035
+      },
+      {
+        "epoch": 4,
+        "loss": 1.8363349539575093,
+        "validation_accuracy": 0.2711864406779661
+      },
+      {
+        "epoch": 5,
+        "loss": 1.7564879121577088,
+        "validation_accuracy": 0.3050847457627119
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 1,
+      "bandwidth": 1.0,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.1864406779661017,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.12025411938776,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 2,
+        "loss": 2.102654182372777,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 3,
+        "loss": 2.088158823400101,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 4,
+        "loss": 2.077064256988679,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 5,
+        "loss": 2.068846954999566,
+        "validation_accuracy": 0.13559322033898305
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 1,
+      "bandwidth": 0.5,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.2033898305084746,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.248467107279657,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 2,
+        "loss": 2.0393498656271354,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 3,
+        "loss": 1.9047717887685447,
+        "validation_accuracy": 0.15254237288135594
+      },
+      {
+        "epoch": 4,
+        "loss": 1.8210812977666222,
+        "validation_accuracy": 0.2033898305084746
+      },
+      {
+        "epoch": 5,
+        "loss": 1.7686981512057054,
+        "validation_accuracy": 0.2033898305084746
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 1,
+      "bandwidth": 0.5,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.2542372881355932,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.1316175143132807,
+        "validation_accuracy": 0.2542372881355932
+      },
+      {
+        "epoch": 2,
+        "loss": 2.108340780344061,
+        "validation_accuracy": 0.23728813559322035
+      },
+      {
+        "epoch": 3,
+        "loss": 2.0885242134940465,
+        "validation_accuracy": 0.22033898305084745
+      },
+      {
+        "epoch": 4,
+        "loss": 2.0674223423969056,
+        "validation_accuracy": 0.22033898305084745
+      },
+      {
+        "epoch": 5,
+        "loss": 2.044153885306703,
+        "validation_accuracy": 0.1864406779661017
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 3,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.4915254237288136,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 1.8962658385946591,
+        "validation_accuracy": 0.23728813559322035
+      },
+      {
+        "epoch": 2,
+        "loss": 1.8249653424015244,
+        "validation_accuracy": 0.288135593220339
+      },
+      {
+        "epoch": 3,
+        "loss": 1.7789722581790772,
+        "validation_accuracy": 0.3220338983050847
+      },
+      {
+        "epoch": 4,
+        "loss": 1.7346552848271606,
+        "validation_accuracy": 0.4915254237288136
+      },
+      {
+        "epoch": 5,
+        "loss": 1.7024619380531554,
+        "validation_accuracy": 0.4745762711864407
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 3,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.11864406779661017,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.0428926207612568,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 2,
+        "loss": 2.0234404900471543,
+        "validation_accuracy": 0.11864406779661017
+      },
+      {
+        "epoch": 3,
+        "loss": 2.010078862783363,
+        "validation_accuracy": 0.0847457627118644
+      },
+      {
+        "epoch": 4,
+        "loss": 1.9984781479216303,
+        "validation_accuracy": 0.06779661016949153
+      },
+      {
+        "epoch": 5,
+        "loss": 1.9866629669975433,
+        "validation_accuracy": 0.05084745762711865
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 3,
+      "bandwidth": 0.5,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.423728813559322,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.0618813913494476,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 2,
+        "loss": 1.9573919840986511,
+        "validation_accuracy": 0.3559322033898305
+      },
+      {
+        "epoch": 3,
+        "loss": 1.9121034154676027,
+        "validation_accuracy": 0.423728813559322
+      },
+      {
+        "epoch": 4,
+        "loss": 1.8737372911803987,
+        "validation_accuracy": 0.3898305084745763
+      },
+      {
+        "epoch": 5,
+        "loss": 1.8404247855466005,
+        "validation_accuracy": 0.423728813559322
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 3,
+      "bandwidth": 0.5,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.22033898305084745,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.053608459791631,
+        "validation_accuracy": 0.0847457627118644
+      },
+      {
+        "epoch": 2,
+        "loss": 2.0304041994187525,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 3,
+        "loss": 2.0116802789809376,
+        "validation_accuracy": 0.22033898305084745
+      },
+      {
+        "epoch": 4,
+        "loss": 1.9950000958091265,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 5,
+        "loss": 1.9780897069360028,
+        "validation_accuracy": 0.1694915254237288
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 3,
+      "bandwidth": 1.0,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.559322033898305,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 1.9974148526299484,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 2,
+        "loss": 1.860040750402585,
+        "validation_accuracy": 0.4576271186440678
+      },
+      {
+        "epoch": 3,
+        "loss": 1.794981643055282,
+        "validation_accuracy": 0.5254237288135594
+      },
+      {
+        "epoch": 4,
+        "loss": 1.742422154654808,
+        "validation_accuracy": 0.559322033898305
+      },
+      {
+        "epoch": 5,
+        "loss": 1.684438641450358,
+        "validation_accuracy": 0.4915254237288136
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 3,
+      "bandwidth": 1.0,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.13559322033898305,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.078013843963463,
+        "validation_accuracy": 0.0847457627118644
+      },
+      {
+        "epoch": 2,
+        "loss": 2.0576446874964445,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 3,
+        "loss": 2.0452281568058917,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 4,
+        "loss": 2.0359289932863778,
+        "validation_accuracy": 0.11864406779661017
+      },
+      {
+        "epoch": 5,
+        "loss": 2.0258000207500624,
+        "validation_accuracy": 0.13559322033898305
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "angle",
+      "depth": 3,
+      "bandwidth": 0.5,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.6779661016949152,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 1.9984344936828913,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 2,
+        "loss": 1.8773095794438712,
+        "validation_accuracy": 0.2711864406779661
+      },
+      {
+        "epoch": 3,
+        "loss": 1.7924081553236673,
+        "validation_accuracy": 0.4406779661016949
+      },
+      {
+        "epoch": 4,
+        "loss": 1.714142137754743,
+        "validation_accuracy": 0.5084745762711864
+      },
+      {
+        "epoch": 5,
+        "loss": 1.6353041566628999,
+        "validation_accuracy": 0.6779661016949152
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "zz",
+      "depth": 3,
+      "bandwidth": 0.5,
+      "reupload": true,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.13559322033898305,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.0777040052729174,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 2,
+        "loss": 2.054654301809744,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 3,
+        "loss": 2.039213793528847,
+        "validation_accuracy": 0.11864406779661017
+      },
+      {
+        "epoch": 4,
+        "loss": 2.0280630365586307,
+        "validation_accuracy": 0.0847457627118644
+      },
+      {
+        "epoch": 5,
+        "loss": 2.0200239588396895,
+        "validation_accuracy": 0.1016949152542373
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "amplitude",
+      "depth": 1,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.06779661016949153,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 3.345402582214922,
+        "validation_accuracy": 0.06779661016949153
+      },
+      {
+        "epoch": 2,
+        "loss": 3.1184286935723406,
+        "validation_accuracy": 0.05084745762711865
+      },
+      {
+        "epoch": 3,
+        "loss": 2.878143297706036,
+        "validation_accuracy": 0.03389830508474576
+      },
+      {
+        "epoch": 4,
+        "loss": 2.704283169244123,
+        "validation_accuracy": 0.01694915254237288
+      },
+      {
+        "epoch": 5,
+        "loss": 2.567403564880645,
+        "validation_accuracy": 0.03389830508474576
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "amplitude",
+      "depth": 2,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.2033898305084746,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 3.044281729250266,
+        "validation_accuracy": 0.1694915254237288
+      },
+      {
+        "epoch": 2,
+        "loss": 2.8184338624540306,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 3,
+        "loss": 2.606445285448649,
+        "validation_accuracy": 0.1864406779661017
+      },
+      {
+        "epoch": 4,
+        "loss": 2.43697583845065,
+        "validation_accuracy": 0.2033898305084746
+      },
+      {
+        "epoch": 5,
+        "loss": 2.2962423033350645,
+        "validation_accuracy": 0.2033898305084746
+      }
+    ]
+  },
+  {
+    "seed": 0,
+    "config": {
+      "encoding": "amplitude",
+      "depth": 3,
+      "bandwidth": 1.0,
+      "reupload": false,
+      "encoding_reps": 1
+    },
+    "validation_accuracy": 0.13559322033898305,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 2.795971030386768,
+        "validation_accuracy": 0.0847457627118644
+      },
+      {
+        "epoch": 2,
+        "loss": 2.451064551999309,
+        "validation_accuracy": 0.11864406779661017
+      },
+      {
+        "epoch": 3,
+        "loss": 2.2687460641706454,
+        "validation_accuracy": 0.13559322033898305
+      },
+      {
+        "epoch": 4,
+        "loss": 2.1545756606780135,
+        "validation_accuracy": 0.1016949152542373
+      },
+      {
+        "epoch": 5,
+        "loss": 2.077689598383938,
+        "validation_accuracy": 0.13559322033898305
+      }
+    ]
+  }
+]

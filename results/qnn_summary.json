@@ -1,0 +1,38 @@
+{
+  "angle": {
+    "mean_accuracy": 0.10515463917525773,
+    "std_accuracy": 0.011293248608353939,
+    "n_splits": 5,
+    "config": {
+      "bandwidth": 0.5,
+      "depth": 3,
+      "encoding": "angle",
+      "encoding_reps": 1,
+      "reupload": true
+    }
+  },
+  "zz": {
+    "mean_accuracy": 0.15257731958762885,
+    "std_accuracy": 0.029521280542837845,
+    "n_splits": 5,
+    "config": {
+      "bandwidth": 0.5,
+      "depth": 1,
+      "encoding": "zz",
+      "encoding_reps": 1,
+      "reupload": true
+    }
+  },
+  "amplitude": {
+    "mean_accuracy": 0.10103092783505155,
+    "std_accuracy": 0.03126958946000639,
+    "n_splits": 5,
+    "config": {
+      "bandwidth": 1.0,
+      "depth": 2,
+      "encoding": "amplitude",
+      "encoding_reps": 1,
+      "reupload": false
+    }
+  }
+}

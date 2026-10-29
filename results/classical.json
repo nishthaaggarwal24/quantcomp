@@ -1,0 +1,152 @@
+[
+  {
+    "seed": 0,
+    "model": "logistic",
+    "accuracy": 0.8762886597938144,
+    "parameters": 72
+  },
+  {
+    "seed": 0,
+    "model": "linear_svm",
+    "accuracy": 0.845360824742268,
+    "parameters": 72
+  },
+  {
+    "seed": 0,
+    "model": "mlp",
+    "accuracy": 0.7731958762886598,
+    "parameters": 59
+  },
+  {
+    "seed": 0,
+    "model": "rbf_svm",
+    "accuracy": 0.865979381443299,
+    "parameters": null
+  },
+  {
+    "seed": 0,
+    "model": "tfidf_logistic",
+    "accuracy": 0.9381443298969072,
+    "parameters": 4448
+  },
+  {
+    "seed": 1,
+    "model": "logistic",
+    "accuracy": 0.9072164948453608,
+    "parameters": 72
+  },
+  {
+    "seed": 1,
+    "model": "linear_svm",
+    "accuracy": 0.8865979381443299,
+    "parameters": 72
+  },
+  {
+    "seed": 1,
+    "model": "mlp",
+    "accuracy": 0.4742268041237113,
+    "parameters": 59
+  },
+  {
+    "seed": 1,
+    "model": "rbf_svm",
+    "accuracy": 0.8556701030927835,
+    "parameters": null
+  },
+  {
+    "seed": 1,
+    "model": "tfidf_logistic",
+    "accuracy": 0.9278350515463918,
+    "parameters": 4432
+  },
+  {
+    "seed": 2,
+    "model": "logistic",
+    "accuracy": 0.845360824742268,
+    "parameters": 72
+  },
+  {
+    "seed": 2,
+    "model": "linear_svm",
+    "accuracy": 0.8350515463917526,
+    "parameters": 72
+  },
+  {
+    "seed": 2,
+    "model": "mlp",
+    "accuracy": 0.41237113402061853,
+    "parameters": 59
+  },
+  {
+    "seed": 2,
+    "model": "rbf_svm",
+    "accuracy": 0.8865979381443299,
+    "parameters": null
+  },
+  {
+    "seed": 2,
+    "model": "tfidf_logistic",
+    "accuracy": 0.9690721649484536,
+    "parameters": 4504
+  },
+  {
+    "seed": 3,
+    "model": "logistic",
+    "accuracy": 0.8762886597938144,
+    "parameters": 72
+  },
+  {
+    "seed": 3,
+    "model": "linear_svm",
+    "accuracy": 0.845360824742268,
+    "parameters": 72
+  },
+  {
+    "seed": 3,
+    "model": "mlp",
+    "accuracy": 0.8144329896907216,
+    "parameters": 59
+  },
+  {
+    "seed": 3,
+    "model": "rbf_svm",
+    "accuracy": 0.845360824742268,
+    "parameters": null
+  },
+  {
+    "seed": 3,
+    "model": "tfidf_logistic",
+    "accuracy": 0.9690721649484536,
+    "parameters": 4464
+  },
+  {
+    "seed": 4,
+    "model": "logistic",
+    "accuracy": 0.845360824742268,
+    "parameters": 72
+  },
+  {
+    "seed": 4,
+    "model": "linear_svm",
+    "accuracy": 0.7938144329896907,
+    "parameters": 72
+  },
+  {
+    "seed": 4,
+    "model": "mlp",
+    "accuracy": 0.7422680412371134,
+    "parameters": 59
+  },
+  {
+    "seed": 4,
+    "model": "rbf_svm",
+    "accuracy": 0.8350515463917526,
+    "parameters": null
+  },
+  {
+    "seed": 4,
+    "model": "tfidf_logistic",
+    "accuracy": 0.9278350515463918,
+    "parameters": 4312
+  }
+]
